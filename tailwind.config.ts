@@ -14,10 +14,12 @@ const config: Config = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       colors: {
-         "Desaturated-Red": "hsl(0, 36%, 70%)",
-         "Soft-Red": "hsl(0, 93%, 68%)",
+        "Desaturated-Red": "hsl(0, 36%, 70%)",
+        "Soft-Red": "hsl(0, 93%, 68%)",
 
-         "Dark-Grayish-Red": "hsl(0, 6%, 24%)",
+        "Dark-Grayish-Red": "hsl(0, 6%, 24%)",
+        "from-button": "hsl(0, 80%, 86%)",
+        "to-button": "hsl(0, 74%, 74%)"
       }
     },
   },
