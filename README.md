@@ -43,4 +43,4 @@ Abra http://localhost:3000 com seu navegador para ver o resultado.
 
 ## Stack utilizada
 
-**Front-end:** Next.js, TailwindCSS
+**Front-end:** Next.js, Typescript, TailwindCSS
