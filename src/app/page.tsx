@@ -1,9 +1,11 @@
-import Image from 'next/image'
+'use client'
+
+import ResponsiveComponent from '@/components/responsive'
 
 export default function Home() {
   return (
     <main className=''>
-
+      <ResponsiveComponent />
     </main>
   )
 }
